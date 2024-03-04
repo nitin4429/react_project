@@ -1,0 +1,9 @@
+.pokedex-wrapper{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    letter-spacing: 0.5cap;
+}
